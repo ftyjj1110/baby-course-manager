@@ -1,0 +1,15 @@
+{
+  "name": "宝贝课程管家",
+  "short_name": "课程管家",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f3ef",
+  "theme_color": "#f7eee9",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
